@@ -1,7 +1,8 @@
 <script lang="ts" setup></script>
 
 <template>
-  <div>我是APP组件</div>
+  <!-- 路由出口 -->
+  <router-view></router-view>
 </template>
 
 <style scoped></style>
